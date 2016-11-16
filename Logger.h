@@ -1,7 +1,7 @@
 #include <string>
 #include <ctime>
 #include <fstream>
-#pragma warning(disable : 4996)	//Yeah,I know.
+
 
 class Logger {
 public:
