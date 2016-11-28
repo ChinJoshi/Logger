@@ -13,7 +13,7 @@ public:
 	void setFile(std::string path) {
 		filePath = path;
 	}
-	/**sets the headers of your csv (accepts an array of any type as the first argumetn and the number of elements in the array as the second argument)
+	/**sets the headers of your csv (accepts an array of any type as the first argument and the number of elements in the array as the second argument)
 	Call Example: 
 	std::string headers[] = {"test1","test2","test3","test4"};
 	setHeaders(headers,4);**/
